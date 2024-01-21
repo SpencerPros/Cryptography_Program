@@ -10,7 +10,7 @@ This program I created using Python implements a basic password manager that sec
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>PowerShell</b> 
+- <b>Command Prompt</b> 
 
 <h2>Environments Used </h2>
 
@@ -19,20 +19,28 @@ This program I created using Python implements a basic password manager that sec
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the Program from Powershell : <br/>
-<img src="https://i.imgur.com/Phgt2hP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Command Prompt to the right Path of where the program is located : <br/>
+<img src="https://i.imgur.com/A8F8AKo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-GUI Window Loads:  <br/>
-<img src="https://i.imgur.com/tghYPV7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the Program:  <br/>
+<img src="https://i.imgur.com/TIlFyVN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the Credentials: <br/>
-<img src="https://i.imgur.com/eOV7Cbj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Users Credentials: <br/>
+<img src="https://i.imgur.com/P0vyqEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Access Granted:  <br/>
-<img src="https://i.imgur.com/45qtLJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Retrieve Users Password Information:  <br/>
+<img src="https://i.imgur.com/I69CDxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Display Users Password Information:  <br/>
+<img src="https://i.imgur.com/zchUg3K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Type 3 to Exit:  <br/>
+<img src="https://i.imgur.com/EePcviJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
