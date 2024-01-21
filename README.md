@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-This Python program I created implements a basic password manager that securely stores and retrieves user passwords using encryption. It uses the Fernet symmetric key encryption provided by the cryptography library. The program allows users to add new usernames and passwords, retrieve passwords for existing users, and demonstrates the use of cryptographic techniques to protect sensitive information. The user interface is implemented through the console, providing a simple and interactive way to manage passwords.
+This program I created using Python implements a basic password manager that securely stores and retrieves user passwords using encryption. It uses the Fernet symmetric key encryption provided by the cryptography library. The program allows users to add new usernames and passwords, retrieve passwords for existing users, and demonstrates the use of cryptographic techniques to protect sensitive information. The user interface is implemented through the console, providing a simple and interactive way to manage passwords.
 <br />
 
 
