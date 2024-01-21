@@ -35,7 +35,7 @@ Add Users Credentials: <br/>
 <img src="https://i.imgur.com/P0vyqEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Retrieve Users Password Information:  <br/>
+Retrieve Users Password Information by typing 2:  <br/>
 <img src="https://i.imgur.com/I69CDxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
