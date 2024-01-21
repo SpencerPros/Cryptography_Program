@@ -19,7 +19,11 @@ This program I created using Python implements a basic password manager that sec
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Set Command Prompt to the right Path of where the program is located : <br/>
+ Install Cryptography if you do not have: <br/>
+<img src="https://i.imgur.com/iIlV1Gv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Set Command Prompt to the right Path of where the Password_Manager.py program is located : <br/>
 <img src="https://i.imgur.com/A8F8AKo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
